@@ -44,6 +44,10 @@ The performance shows a clear inverse correlation with the learning rate. The lo
 
 ---
 
+## Chatbot by using 3B-model in huggingface
+Here's the link:
+https://huggingface.co/spaces/Marcus719/ID2223_Lab2
+
 ## Summary: Factor Importance Ranking
 
 For optimizing Llama-3 fine-tuning performance, factor importance ranks as:
